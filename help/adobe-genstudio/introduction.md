@@ -1,13 +1,13 @@
 ---
 title: introduktion
 description: introduktion
-source-git-commit: 66641d3560a1729e5a982ab70d523b0d82dbd28a
+source-git-commit: 92581e6251297c40001c99eba09fc019b9770d92
 workflow-type: tm+mt
-source-wordcount: '19'
-ht-degree: 5%
+source-wordcount: '15'
+ht-degree: 6%
 
 ---
 
 # Introduktion
 
-Om du vill byta namn på filen till overview.md tar du bort omdirigeringen i filen content-delivery-chain-tutorials.md.
+Besök [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) för den senaste informationen.
