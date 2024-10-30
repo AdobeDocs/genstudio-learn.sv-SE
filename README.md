@@ -1,5 +1,5 @@
 ---
-source-git-commit: 067115d30e9c6b49d3575b293c8f85d29bab4544
+source-git-commit: 25434d58a4b416d5792d3065a87117caa4ab8c97
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 5%
@@ -7,7 +7,7 @@ ht-degree: 5%
 ---
 # Contribute-artikel
 
-**OBS!** Den här databasen är arkiverad.
+**OBS!** Den här databasen är arkiverad!
 
 Vi välkomnar bidrag från både vår community och från Adobe anställda utanför dokumentationsteamen.
 
